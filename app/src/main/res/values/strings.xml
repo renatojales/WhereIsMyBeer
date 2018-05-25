@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WhereIsMyBerr</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_wmbmaps">Where Is My Beer</string>
+    <string name="title_activity_wmblugares">WMBLugares</string>
+</resources>

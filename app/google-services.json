@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "974278005415",
+    "firebase_url": "https://wmbproject-9494d.firebaseio.com",
+    "project_id": "wmbproject-9494d",
+    "storage_bucket": "wmbproject-9494d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974278005415:android:dbb580d873f20eab",
+        "android_client_info": {
+          "package_name": "lauriavictor.com.whereismyberr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974278005415-tkchieko4lsdinp1cis8a7vnlhc9smdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lauriavictor.com.whereismyberr",
+            "certificate_hash": "530426466736a0d0009742f603c109e66731b4a3"
+          }
+        },
+        {
+          "client_id": "974278005415-u389k5n5fb2gu6hosc5b91gjc7tcuco5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "974278005415-u389k5n5fb2gu6hosc5b91gjc7tcuco5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYCO_-ZHTjgbq5E7X13rHe9G5K-ZjPQIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974278005415-u389k5n5fb2gu6hosc5b91gjc7tcuco5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
